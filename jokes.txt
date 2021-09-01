@@ -5,3 +5,6 @@ If having a coffee doesn't wake you up in the morning, try deleting a table in a
 
 How many programmers does it take to screw in a lightbulb?
 None, it's a hardware problem.
+
+Why did the programmer quit his job?
+Because he didn't get arrays.
