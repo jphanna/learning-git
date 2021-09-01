@@ -10,3 +10,6 @@ Why did the programmer quit his job?
 Because he didn't get arrays.
 
 There are 10 kinds of people in this world: Those who know binary, and those who don't.
+
+What is the most used language in programming?
+Profanity
